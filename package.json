@@ -11,13 +11,10 @@
 		"webcomponents",
 		"web",
 		"component",
-		"css",
-		"polyfill",
-		"live",
-		"dynamic",
-		"scope",
-		"scoping",
-		"shadycss"
+		"slotchange",
+		"slot",
+		"event",
+		"polyfill"
 	],
 	"scripts": {
 		"compile": "tsc && webpack ./lib/index.js -o ./lib/slotchange-polyfill.min.js",
