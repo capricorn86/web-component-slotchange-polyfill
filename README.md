@@ -57,6 +57,15 @@ require('web-component-slotchange-polyfill');
 # Known Limitations
 If multiple slots are used, all event listeners will be fired even if only one slot is changed.
 
+
+# Release Notes
+
+| Version | Date       | Description                                         |
+| ------- | ---------- | --------------------------------------------------- |
+| 0.0.2   | 2019-10-30 | Updates eslint to fix security vulnerability.       |
+| 0.0.1   | 2019-07-30 | Alpha release.                                      |
+
+
 # How to Develop
 
 ### Installation
